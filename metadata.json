@@ -1,0 +1,6 @@
+{
+  "name": "RepoReader",
+  "description": "Interactive GitHub repository browser and code inspector pre-opened to omarryhan/aiogoogle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
